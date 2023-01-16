@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UmmiApp</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="bg_ok">#009688</color>
+    <color name="bg_danger">#b20e0f</color>
+    <color name="view_bg">#b20e0f</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_bg">#3e4a56</color>
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START DETECTING DANGER ZONE</string>
+    <string name="btn_stop_location_updates">STOP DETECTING</string>
+</resources>
